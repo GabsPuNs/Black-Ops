@@ -1,0 +1,9 @@
+﻿displayName = Call Of Terra
+author = GabsPuN
+version = 0.1.9
+weakReferences = TerrariaOverhaul
+hideCode = false
+hideResources = false
+includeSource = false
+buildIgnore = vs/*, BuildTools/*, *.csproj, *.sln, *.pidb, *.userprefs, *.user, *.bat, obj/*, bin/*, *.db, *.ignored, *Ignored/*, *ignored/*, *Old/*
+includePDB = false

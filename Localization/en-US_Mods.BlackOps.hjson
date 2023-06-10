@@ -1,0 +1,410 @@
+Buffs: {
+	BandolierBanditBuff: {
+		DisplayName: Bandolier Bandit Buff
+		Description: Mods.BlackOps.Buffs.BandolierBanditBuff.Description
+	}
+
+	BloodWolfBiteBuff: {
+		DisplayName: Blood Wolf Bite Buff
+		Description: Mods.BlackOps.Buffs.BloodWolfBiteBuff.Description
+	}
+
+	DeadshotBuff: {
+		DisplayName: Deadshot Buff
+		Description: Mods.BlackOps.Buffs.DeadshotBuff.Description
+	}
+
+	DoubleTapBuff: {
+		DisplayName: Double Tap Buff
+		Description: Mods.BlackOps.Buffs.DoubleTapBuff.Description
+	}
+
+	DoubleTapIIBuff: {
+		DisplayName: Double Tap I I Buff
+		Description: Mods.BlackOps.Buffs.DoubleTapIIBuff.Description
+	}
+
+	DyingWishBuff: {
+		DisplayName: Dying Wish Buff
+		Description: Mods.BlackOps.Buffs.DyingWishBuff.Description
+	}
+
+	ElementalPopBuff: {
+		DisplayName: Elemental Pop Buff
+		Description: Mods.BlackOps.Buffs.ElementalPopBuff.Description
+	}
+
+	EtherealRazorBuff: {
+		DisplayName: Ethereal Razor Buff
+		Description: Mods.BlackOps.Buffs.EtherealRazorBuff.Description
+	}
+
+	JuggernogBuff: {
+		DisplayName: Juggernog Buff
+		Description: Mods.BlackOps.Buffs.JuggernogBuff.Description
+	}
+
+	JuggernogPurpleBuff: {
+		DisplayName: Juggernog Purple Buff
+		Description: Mods.BlackOps.Buffs.JuggernogPurpleBuff.Description
+	}
+
+	PhDFlopperBuff: {
+		DisplayName: Ph D Flopper Buff
+		Description: Mods.BlackOps.Buffs.PhDFlopperBuff.Description
+	}
+
+	QuickReviveBuff: {
+		DisplayName: Quick Revive Buff
+		Description: Mods.BlackOps.Buffs.QuickReviveBuff.Description
+	}
+
+	SaleSodaBuff: {
+		DisplayName: Sale Soda Buff
+		Description: Mods.BlackOps.Buffs.SaleSodaBuff.Description
+	}
+
+	SpeedColaBuff: {
+		DisplayName: Speed Cola Buff
+		Description: Mods.BlackOps.Buffs.SpeedColaBuff.Description
+	}
+
+	StaminUpBuff: {
+		DisplayName: Stamin Up Buff
+		Description: Mods.BlackOps.Buffs.StaminUpBuff.Description
+	}
+
+	TimeslipBuff: {
+		DisplayName: Timeslip Buff
+		Description: Mods.BlackOps.Buffs.TimeslipBuff.Description
+	}
+
+	TombstoneBuff: {
+		DisplayName: Tombstone Buff
+		Description: Mods.BlackOps.Buffs.TombstoneBuff.Description
+	}
+
+	VictoriousTortiseBuff: {
+		DisplayName: Victorious Tortise Buff
+		Description: Mods.BlackOps.Buffs.VictoriousTortiseBuff.Description
+	}
+
+	VultureAidBuff: {
+		DisplayName: Vulture Aid Buff
+		Description: Mods.BlackOps.Buffs.VultureAidBuff.Description
+	}
+
+	WidowsWineBuff: {
+		DisplayName: Widows Wine Buff
+		Description: Mods.BlackOps.Buffs.WidowsWineBuff.Description
+	}
+
+	WintersWailBuff: {
+		DisplayName: Winters Wail Buff
+		Description: Mods.BlackOps.Buffs.WintersWailBuff.Description
+	}
+}
+
+Items: {
+	RayGunBullet: {
+		DisplayName: Ray Gun Bullet
+		Tooltip: ""
+	}
+
+	RayGun: {
+		DisplayName: Ray Gun
+		Tooltip: ""
+	}
+
+	GrenadeF1: {
+		DisplayName: Grenade F1
+		Tooltip: ""
+	}
+
+	GrenadeMK2: {
+		DisplayName: Grenade M K2
+		Tooltip: ""
+	}
+
+	M24: {
+		DisplayName: M24
+		Tooltip: ""
+	}
+
+	M67: {
+		DisplayName: M67
+		Tooltip: ""
+	}
+
+	N74ST: {
+		DisplayName: N74 S T
+		Tooltip: ""
+	}
+
+	RGD33: {
+		DisplayName: R G D33
+		Tooltip: ""
+	}
+
+	Type97: {
+		DisplayName: Type97
+		Tooltip: ""
+	}
+
+	AK101: {
+		DisplayName: A K101
+		Tooltip: ""
+	}
+
+	AK103: {
+		DisplayName: A K103
+		Tooltip: ""
+	}
+
+	AK104: {
+		DisplayName: A K104
+		Tooltip: ""
+	}
+
+	AK107: {
+		DisplayName: A K107
+		Tooltip: ""
+	}
+
+	AK12: {
+		DisplayName: A K12
+		Tooltip: ""
+	}
+
+	AK15: {
+		DisplayName: A K15
+		Tooltip: ""
+	}
+
+	AK19: {
+		DisplayName: A K19
+		Tooltip: ""
+	}
+
+	AK308: {
+		DisplayName: A K308
+		Tooltip: ""
+	}
+
+	AK47: {
+		DisplayName: A K47
+		Tooltip: ""
+	}
+
+	AK74: {
+		DisplayName: A K74
+		Tooltip: ""
+	}
+
+	AKM: {
+		DisplayName: A K M
+		Tooltip: ""
+	}
+
+	AUG: {
+		DisplayName: A U G
+		Tooltip: ""
+	}
+
+	Car15: {
+		DisplayName: Car15
+		Tooltip: ""
+	}
+
+	Galil: {
+		DisplayName: Galil
+		Tooltip: ""
+	}
+
+	IceFury: {
+		DisplayName: Ice Fury
+		Tooltip: ""
+	}
+
+	Krig6: {
+		DisplayName: Krig6
+		Tooltip: ""
+	}
+
+	Fal: {
+		DisplayName: Fal
+		Tooltip: ""
+	}
+
+	AK102: {
+		DisplayName: A K102
+		Tooltip: ""
+	}
+
+	AK105: {
+		DisplayName: A K105
+		Tooltip: ""
+	}
+
+	AK117: {
+		DisplayName: A K117
+		Tooltip: ""
+	}
+
+	AK12K: {
+		DisplayName: A K12 K
+		Tooltip: ""
+	}
+
+	AK15K: {
+		DisplayName: A K15 K
+		Tooltip: ""
+	}
+
+	AKS74U: {
+		DisplayName: A K S74 U
+		Tooltip: ""
+	}
+
+	GalilCordova: {
+		DisplayName: Galil Cordova
+		Tooltip: ""
+	}
+
+	M2Flamethrower: {
+		DisplayName: M2 Flamethrower
+		Tooltip: ""
+	}
+
+	ColtPython: {
+		DisplayName: Colt Python
+		Tooltip: ""
+	}
+
+	DesertEagle: {
+		DisplayName: Desert Eagle
+		Tooltip: ""
+	}
+
+	FiveSeven: {
+		DisplayName: Five Seven
+		Tooltip: ""
+	}
+
+	Glock44: {
+		DisplayName: Glock44
+		Tooltip: ""
+	}
+
+	M1911: {
+		DisplayName: M1911
+		Tooltip: ""
+	}
+
+	Marshal: {
+		DisplayName: Marshal
+		Tooltip: ""
+	}
+
+	TaurusG3Tactical: {
+		DisplayName: Taurus G3 Tactical
+		Tooltip: ""
+	}
+
+	Minigun: {
+		DisplayName: Minigun
+		Tooltip: ""
+	}
+
+	Olympa: {
+		DisplayName: Olympa
+		Tooltip: ""
+	}
+
+	MP40: {
+		DisplayName: M P40
+		Tooltip: ""
+	}
+
+	MP5K: {
+		DisplayName: M P5 K
+		Tooltip: ""
+	}
+
+	MPL: {
+		DisplayName: M P L
+		Tooltip: ""
+	}
+
+	PPD34: {
+		DisplayName: P P D34
+		Tooltip: ""
+	}
+
+	PPSH41: {
+		DisplayName: P P S H41
+		Tooltip: ""
+	}
+
+	Skorpion: {
+		DisplayName: Skorpion
+		Tooltip: ""
+	}
+
+	SpectreM4: {
+		DisplayName: Spectre M4
+		Tooltip: ""
+	}
+
+	Thompson: {
+		DisplayName: Thompson
+		Tooltip: ""
+	}
+
+	Uzi: {
+		DisplayName: Uzi
+		Tooltip: ""
+	}
+
+	Blundergat: {
+		DisplayName: Blundergat
+		Tooltip: ""
+	}
+
+	RayGunMK2: {
+		DisplayName: Ray Gun M K2
+		Tooltip: ""
+	}
+
+	Knife: {
+		DisplayName: Knife
+		Tooltip: ""
+	}
+
+	Tomahawk: {
+		DisplayName: Tomahawk
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	Explosion1.DisplayName: Explosion1
+	Explosion2.DisplayName: Explosion2
+	ExplosionRayGun.DisplayName: Explosion Ray Gun
+	GrenadeF1Proj.DisplayName: Grenade F1 Proj
+	GrenadeMK2Proj.DisplayName: Grenade M K2 Proj
+	IceFuryBulletProjectile.DisplayName: Ice Fury Bullet Projectile
+	M24Proj.DisplayName: M24 Proj
+	M2FlamethrowerProj.DisplayName: M2 Flamethrower Proj
+	M67Proj.DisplayName: M67 Proj
+	MuzzleFlash.DisplayName: Muzzle Flash
+	MuzzleFlashIce.DisplayName: Muzzle Flash Ice
+	MuzzleFlashRayGun.DisplayName: Muzzle Flash Ray Gun
+	N74STProj.DisplayName: N74 S T Proj
+	RayGunBulletProjectile.DisplayName: Ray Gun Bullet Projectile
+	RayGunBulletProjectile1.DisplayName: Ray Gun Bullet Projectile1
+	RayGunBulletProjectile2.DisplayName: Ray Gun Bullet Projectile2
+	RayGunBulletProjectile3.DisplayName: Ray Gun Bullet Projectile3
+	RGD33Proj.DisplayName: R G D33 Proj
+	Type97Proj.DisplayName: Type97 Proj
+}
