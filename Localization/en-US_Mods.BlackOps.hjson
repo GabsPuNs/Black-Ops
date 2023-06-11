@@ -50,7 +50,7 @@ Buffs: {
 	}
 
 	PhDFlopperBuff: {
-		DisplayName: Ph D Flopper Buff
+		DisplayName: PhD Flopper Buff
 		Description: Mods.BlackOps.Buffs.PhDFlopperBuff.Description
 	}
 
@@ -122,7 +122,7 @@ Items: {
 	}
 
 	GrenadeMK2: {
-		DisplayName: Grenade M K2
+		DisplayName: Grenade MK2
 		Tooltip: ""
 	}
 
@@ -137,12 +137,12 @@ Items: {
 	}
 
 	N74ST: {
-		DisplayName: N74 S T
+		DisplayName: N74ST
 		Tooltip: ""
 	}
 
 	RGD33: {
-		DisplayName: R G D33
+		DisplayName: RGD33
 		Tooltip: ""
 	}
 
@@ -152,62 +152,62 @@ Items: {
 	}
 
 	AK101: {
-		DisplayName: A K101
+		DisplayName: AK101
 		Tooltip: ""
 	}
 
 	AK103: {
-		DisplayName: A K103
+		DisplayName: AK103
 		Tooltip: ""
 	}
 
 	AK104: {
-		DisplayName: A K104
+		DisplayName: AK104
 		Tooltip: ""
 	}
 
 	AK107: {
-		DisplayName: A K107
+		DisplayName: AK107
 		Tooltip: ""
 	}
 
 	AK12: {
-		DisplayName: A K12
+		DisplayName: AK12
 		Tooltip: ""
 	}
 
 	AK15: {
-		DisplayName: A K15
+		DisplayName: AK15
 		Tooltip: ""
 	}
 
 	AK19: {
-		DisplayName: A K19
+		DisplayName: AK19
 		Tooltip: ""
 	}
 
 	AK308: {
-		DisplayName: A K308
+		DisplayName: AK308
 		Tooltip: ""
 	}
 
 	AK47: {
-		DisplayName: A K47
+		DisplayName: AK47
 		Tooltip: ""
 	}
 
 	AK74: {
-		DisplayName: A K74
+		DisplayName: AK74
 		Tooltip: ""
 	}
 
 	AKM: {
-		DisplayName: A K M
+		DisplayName: AKM
 		Tooltip: ""
 	}
 
 	AUG: {
-		DisplayName: A U G
+		DisplayName: AUG
 		Tooltip: ""
 	}
 
@@ -237,32 +237,32 @@ Items: {
 	}
 
 	AK102: {
-		DisplayName: A K102
+		DisplayName: AK102
 		Tooltip: ""
 	}
 
 	AK105: {
-		DisplayName: A K105
+		DisplayName: AK105
 		Tooltip: ""
 	}
 
 	AK117: {
-		DisplayName: A K117
+		DisplayName: AK117
 		Tooltip: ""
 	}
 
 	AK12K: {
-		DisplayName: A K12 K
+		DisplayName: AK12K
 		Tooltip: ""
 	}
 
 	AK15K: {
-		DisplayName: A K15 K
+		DisplayName: AK15K
 		Tooltip: ""
 	}
 
 	AKS74U: {
-		DisplayName: A K S74 U
+		DisplayName: AKS74U
 		Tooltip: ""
 	}
 
@@ -272,7 +272,7 @@ Items: {
 	}
 
 	M2Flamethrower: {
-		DisplayName: M2 Flamethrower
+		DisplayName: M2Flamethrower
 		Tooltip: ""
 	}
 
@@ -307,7 +307,7 @@ Items: {
 	}
 
 	TaurusG3Tactical: {
-		DisplayName: Taurus G3 Tactical
+		DisplayName: TaurusG3 Tactical
 		Tooltip: ""
 	}
 
@@ -322,27 +322,27 @@ Items: {
 	}
 
 	MP40: {
-		DisplayName: M P40
+		DisplayName: MP40
 		Tooltip: ""
 	}
 
 	MP5K: {
-		DisplayName: M P5 K
+		DisplayName: MP5K
 		Tooltip: ""
 	}
 
 	MPL: {
-		DisplayName: M P L
+		DisplayName: MPL
 		Tooltip: ""
 	}
 
 	PPD34: {
-		DisplayName: P P D34
+		DisplayName: PPD34
 		Tooltip: ""
 	}
 
 	PPSH41: {
-		DisplayName: P P S H41
+		DisplayName: PPSH41
 		Tooltip: ""
 	}
 
@@ -372,7 +372,7 @@ Items: {
 	}
 
 	RayGunMK2: {
-		DisplayName: Ray Gun M K2
+		DisplayName: RayGun MK2
 		Tooltip: ""
 	}
 
@@ -388,23 +388,23 @@ Items: {
 }
 
 Projectiles: {
-	Explosion1.DisplayName: Explosion1
-	Explosion2.DisplayName: Explosion2
-	ExplosionRayGun.DisplayName: Explosion Ray Gun
-	GrenadeF1Proj.DisplayName: Grenade F1 Proj
-	GrenadeMK2Proj.DisplayName: Grenade M K2 Proj
+	Explosion1.DisplayName: Explosion
+	Explosion2.DisplayName: Explosion
+	ExplosionRayGun.DisplayName: Ray Gun Explosion
+	GrenadeF1Proj.DisplayName: Grenade F1 Projectile
+	GrenadeMK2Proj.DisplayName: Grenade MK2 Projectile
 	IceFuryBulletProjectile.DisplayName: Ice Fury Bullet Projectile
-	M24Proj.DisplayName: M24 Proj
-	M2FlamethrowerProj.DisplayName: M2 Flamethrower Proj
-	M67Proj.DisplayName: M67 Proj
+	M24Proj.DisplayName: M24 Projectile
+	M2FlamethrowerProj.DisplayName: M2Flamethrower Projectile
+	M67Proj.DisplayName: M67 Projectile
 	MuzzleFlash.DisplayName: Muzzle Flash
 	MuzzleFlashIce.DisplayName: Muzzle Flash Ice
 	MuzzleFlashRayGun.DisplayName: Muzzle Flash Ray Gun
-	N74STProj.DisplayName: N74 S T Proj
+	N74STProj.DisplayName: N74ST Projectile
 	RayGunBulletProjectile.DisplayName: Ray Gun Bullet Projectile
-	RayGunBulletProjectile1.DisplayName: Ray Gun Bullet Projectile1
-	RayGunBulletProjectile2.DisplayName: Ray Gun Bullet Projectile2
-	RayGunBulletProjectile3.DisplayName: Ray Gun Bullet Projectile3
-	RGD33Proj.DisplayName: R G D33 Proj
-	Type97Proj.DisplayName: Type97 Proj
+	RayGunBulletProjectile1.DisplayName: Ray Gun Bullet Projectile
+	RayGunBulletProjectile2.DisplayName: Ray Gun Bullet Projectile
+	RayGunBulletProjectile3.DisplayName: Ray Gun Bullet Projectile
+	RGD33Proj.DisplayName: RGD33 Projectile
+	Type97Proj.DisplayName: Type97 Projectile
 }
