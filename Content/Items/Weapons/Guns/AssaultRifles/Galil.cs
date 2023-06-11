@@ -22,7 +22,7 @@ namespace BlackOps.Content.Items.Weapons.Guns.AssaultRifles
 			Item.useTime = 5;
 			Item.useAnimation = 5;
 
-			Item.damage = 54;
+            Item.damage = 32;
 			Item.DamageType = DamageClass.Ranged;
 			Item.knockBack = 2.7f;
 			Item.noMelee = true;
